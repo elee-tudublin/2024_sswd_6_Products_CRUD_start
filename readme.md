@@ -52,4 +52,4 @@ In the **`app`** folder you will find the following:
 
 3. **Add new products** via a form (use  a URL link for the thumbnail image).
 4. Implement features to **update** and **delete** products when their edit/ delete buttons are clicked.
-5. Make use of **htmx** in your solutions.
+5. Make use of **htmx** in your solutions, Make use of **htmx** in your solutions, following the examples from previous labs.

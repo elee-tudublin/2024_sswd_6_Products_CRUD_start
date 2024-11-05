@@ -7,8 +7,8 @@ import httpx
 # Load environment variables from .env
 config = Config(".env")
 
-# A dictionary for products
-products_data = {}
+# A List for products
+products_data = []
 
 # initialise with data from dummyjson
 def dataInitDB() :
